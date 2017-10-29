@@ -6,6 +6,9 @@
   "repository": "git@github.com:softwaregardeners/couche.git",
   "author": "Brice Carpentier <brice@software-gardeners.fr>",
   "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
   "scripts": {
     "eslint": "eslint ."
   },
