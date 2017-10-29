@@ -1,5 +1,5 @@
 {
-  "name": "couche",
+  "name": "@softwaregardeners/couche",
   "version": "0.0.9",
   "description": "Couche loads whitelisted variables into process.env, potentially reading from _FILE",
   "main": "index.js",
