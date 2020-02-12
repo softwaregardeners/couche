@@ -1,20 +1,20 @@
 {
   "name": "@softwaregardeners/couche",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Couche loads whitelisted variables into process.env, potentially reading from _FILE",
   "main": "index.js",
   "repository": "git@github.com:softwaregardeners/couche.git",
-  "author": "Brice Carpentier <brice@software-gardeners.fr>",
+  "author": "Brice Carpentier <brice@daknet.org>",
   "license": "MIT",
   "engines": {
-    "node": ">=8"
+    "node": ">= 8"
   },
   "scripts": {
     "eslint": "eslint ."
   },
   "devDependencies": {
-    "eslint": "^4.10.0",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.8.0"
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
   }
 }
